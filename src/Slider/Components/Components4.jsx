@@ -1,5 +1,5 @@
 import React from 'react'
-import image4 from '../../assets/about-image/image4.jpg'
+import image4 from '../../assets/aboutImage/image4.jpg'
 
 function Components4 () {
   return (
@@ -13,7 +13,7 @@ function Components4 () {
           extension of the confidence of international companies in the Saudi
           market and hospitality.
         </p>
-        
+
         <p>
           قامت شركة تَميرَة، أحد الشركات الشقيقة لشركة رواد تنفيذ المشاريع
           بتوقيع اتفاقية للتوزيع لشركة هاجلتنر في السعودية. و اوضح الرئيس
@@ -25,7 +25,11 @@ function Components4 () {
         </p>
       </div>
       <div>
-        <img src={image4} alt='image' className=' h-100 object-contain w-full'/>
+        <img
+          src={image4}
+          alt='image'
+          className=' h-100 object-contain w-full'
+        />
       </div>
     </div>
   )

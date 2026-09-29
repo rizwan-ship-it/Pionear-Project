@@ -1,6 +1,6 @@
 import React from 'react'
-import image1 from '../../assets/about-image/image1.jpg'
-import ESAB from '../../assets/about-image/logo-esab.jpg'
+import image1 from '../../assets/aboutImage/image1.jpg'
+import ESAB from '../../assets/aboutImage/esab.jpg'
 function Components1 () {
   return (
     <div className='grid grid-cols-2 gap-10 h-100 bg-gray-100'>

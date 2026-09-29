@@ -1,6 +1,6 @@
 import React from 'react'
-import logo from '../../assets/about-image/saarland10.jpg'
-import image10 from '../../assets/about-image/image10.jpg'
+import logo from '../../assets/aboutImage/saarland10.jpg'
+import image10 from '../../assets/aboutImage/image10.jpg'
 
 function Components10 () {
   return (

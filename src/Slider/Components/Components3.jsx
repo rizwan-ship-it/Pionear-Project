@@ -1,6 +1,6 @@
 import React from 'react'
-import TarmeenLogo from '../../assets/about-image/Tarmeen-logo.jpg'
-import image3 from '../../assets/about-image/image3.jpg'
+import TarmeenLogo from '../../assets/aboutImage/Tarmeen.jpg'
+import image3 from '../../assets/aboutImage/image3.jpg'
 
 function Components3 () {
   return (

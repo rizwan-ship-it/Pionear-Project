@@ -1,7 +1,7 @@
 import React from 'react'
-import Zamil1 from '../../assets/about-image/zameel1.jpg'
-import Bama from '../../assets/about-image/bama.jpg'
-import Zamil2 from '../../assets/about-image/zamil2.jpg'
+import Zamil1 from '../../assets/aboutImage/zameel1.jpg'
+import Bama from '../../assets/aboutImage/bama.jpg'
+import Zamil2 from '../../assets/aboutImage/zamil2.jpg'
 
 function Components9 () {
   return (

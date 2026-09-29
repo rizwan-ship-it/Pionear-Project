@@ -1,6 +1,6 @@
 import React from 'react'
-import Logo from '../../assets/about-image/great_future.jpg'
-import image2 from '../../assets/about-image/image2.jpg'
+import Logo from '../../assets/aboutImage/greatFuture.jpg'
+import image2 from '../../assets/aboutImage/image2.jpg'
 
 function Components2 () {
   return (

@@ -1,6 +1,6 @@
 import React from 'react'
-import Logo from '../../assets/about-image/regus.jpg'
-import image5 from '../../assets/about-image/image5.jpg'
+import Logo from '../../assets/aboutImage/regus.jpg'
+import image5 from '../../assets/aboutImage/image5.jpg'
 
 function Components5 () {
   return (

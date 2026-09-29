@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../../assets/about-image/riyad.jpg'
+import logo from '../../assets/aboutImage/riyad.jpg'
 
 function Components7 () {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import image8 from '../../assets/about-image/image8.jpg'
+import image8 from '../../assets/aboutImage/image8.jpg'
 
 function Components8 () {
   return (
