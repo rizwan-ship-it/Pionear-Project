@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../../assets/aboutImage/GreatFuture.jpg'
+import Logo from '../../assets/aboutImage/future.jpg'
 import image2 from '../../assets/aboutImage/image2.jpg'
 
 function Components2 () {
